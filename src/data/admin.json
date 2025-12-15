@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Bapak Kepala",
+    "role": "Kepala Lab TMJ",
+    "photo": "kepala.jpg",
+    "whatsapp": "6281234567890",
+    "email": "budi.santoso@university.ac.id",
+    "isHead": true
+  },
+  {
+    "name": "Noval",
+    "role": "Admin Lab 1",
+    "photo": "admin1.jpg",
+    "whatsapp": "6283861871212",
+    "email": "220411100154@student.trunojoyo.ac.id"
+  },
+  {
+    "name": "Abdi",
+    "role": "Admin Lab 2",
+    "photo": "admin2.jpg",
+    "whatsapp": "6281234567892",
+    "email": "ahmad.dahlan@student.trunojoyo.ac.id"
+  },
+  {
+    "name": "Imam",
+    "role": "Admin Lab 3",
+    "photo": "admin3.jpg",
+    "whatsapp": "6281234567893",
+    "email": "rina.wijaya@student.trunojoyo.ac.id"
+  }
+]
