@@ -5,12 +5,12 @@ export default function Gallery() {
   
   // Daftar gambar lab - mudah diubah
   const images = [
-    { id: 1, src: '/images/lab1.jpg', alt: 'Ruangan Lab TMJ', category: 'Ruangan' },
-    { id: 2, src: '/images/lab2.jpg', alt: 'Peralatan Lab', category: 'Peralatan' },
-    { id: 3, src: '/images/lab3.jpg', alt: 'Meeting Area Lab', category: 'Suasana' },
-    { id: 4, src: '/images/lab4.jpg', alt: 'Fasilitas Lab', category: 'Fasilitas' },
-    { id: 5, src: '/images/lab5.jpg', alt: 'Ruangan Dosen', category: 'Dosen' },
-    { id: 6, src: '/images/lab6.jpg', alt: 'Admin Area', category: 'Admin' },
+    { id: 1, src: '/images/lab1.jpeg', alt: 'Ruangan Lab TMJ', category: 'Ruangan' },
+    { id: 2, src: '/images/lab2.jpeg', alt: 'Peralatan Lab', category: 'Peralatan' },
+    { id: 3, src: '/images/lab3.jpeg', alt: 'Meeting Area Lab', category: 'Suasana' },
+    { id: 4, src: '/images/lab4.jpeg', alt: 'Fasilitas Lab', category: 'Fasilitas' },
+    { id: 5, src: '/images/lab5.jpeg', alt: 'Ruangan Dosen', category: 'Dosen' },
+    { id: 6, src: '/images/lab6.jpeg', alt: 'Admin Area', category: 'Admin' },
   ];
 
   return (
