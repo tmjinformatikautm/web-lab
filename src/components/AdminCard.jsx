@@ -25,7 +25,7 @@ export default function AdminCard({ admin }) {
           <h3 className="text-xl font-bold text-gray-900 text-center mb-1">
             {admin.name}
           </h3>
-          <div className="inline-block px-3 py-1 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full mb-3">
+          <div className="inline-block px-3 py-1 bg-blue-600 rounded-full mb-3">
             <p className="text-sm font-semibold text-white">
               {admin.role}
             </p>
@@ -33,7 +33,8 @@ export default function AdminCard({ admin }) {
 
           {/* Contact Info */}
           <div className="w-full space-y-2 mt-4">
-            {!admin.isHead && (
+            {/* {!admin.isHead && ( */}
+            {(
               <a 
                 href={`https://wa.me/${admin.whatsapp}`}
                 target="_blank"

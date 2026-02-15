@@ -3,28 +3,29 @@
     "name": "Dwi Kuswanto, S.Pd., M.T.",
     "role": "Koordinator Lab JAI",
     "photo": "kepala.jpeg",
+    "whatsapp": "6281232444737",
     "email": "dwi.kuswanto@trunojoyo.ac.id",
     "isHead": true
   },
   {
-    "name": "Noval",
-    "role": "Admin Lab 1",
-    "photo": "admin1.jpg",
-    "whatsapp": "6283861871212",
-    "email": "220411100154@student.trunojoyo.ac.id"
+    "name": "Yohanes",
+    "role": "Inventaris",
+    "photo": "admin1.jpeg",
+    "whatsapp": "6281977330481",
+    "email": "240411100095@student.trunojoyo.ac.id"
   },
   {
-    "name": "Abdi",
-    "role": "Admin Lab 2",
-    "photo": "admin2.png",
-    "whatsapp": "6287759712347",
-    "email": "ahmad.dahlan@student.trunojoyo.ac.id"
+    "name": "Rijal",
+    "role": "Kebersihan",
+    "photo": "admin2.jpeg",
+    "whatsapp": "6281911317205",
+    "email": "240411100106@student.trunojoyo.ac.id"
   },
   {
-    "name": "Imam",
-    "role": "Admin Lab 3",
-    "photo": "admin3.png",
-    "whatsapp": "6285335355129",
-    "email": "rina.wijaya@student.trunojoyo.ac.id"
+    "name": "Rafi",
+    "role": "Peminjaman",
+    "photo": "admin3.jpeg",
+    "whatsapp": "6282139360843",
+    "email": "240411100201@student.trunojoyo.ac.id"
   }
 ]

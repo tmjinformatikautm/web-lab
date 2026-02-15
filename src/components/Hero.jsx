@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <div className="relative bg-gradient-to-br from-blue-600 via-purple-600 to-indigo-700 text-white overflow-hidden">
+    <div className="relative bg-blue-600 text-white overflow-hidden">
       {/* Animated Background */}
       <div className="absolute inset-0">
         <div className="absolute inset-0 bg-black/20"></div>
@@ -11,7 +11,7 @@ export default function Hero() {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28">
         <div className="text-center">
           {/* Badge */}
-          <div className="inline-block mb-6 animate-fadeIn">
+          {/* <div className="inline-block mb-6 animate-fadeIn">
             <span className="inline-flex items-center gap-2 px-4 py-2 bg-white/20 backdrop-blur-sm rounded-full text-sm font-semibold border border-white/30">
               <span className="relative flex h-2 w-2">
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
@@ -19,7 +19,7 @@ export default function Hero() {
               </span>
               Lab Prodi Teknik Informatika
             </span>
-          </div>
+          </div> */}
 
           {/* Main Heading */}
           <h1 className="text-4xl md:text-6xl font-extrabold mb-6 animate-fadeIn">
