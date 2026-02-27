@@ -10,7 +10,7 @@ import adminData from "../data/admin.json";
 
 export default function Home() {
     return (
-        <div className="min-h-screen bg-gray-50">
+        <div className="min-h-screen bg-[#f5f5f7] text-[#1d1d1f] antialiased">
             <Header />
             <Hero />
             <ScrollToTop />
@@ -132,7 +132,7 @@ export default function Home() {
                             </h4>
                             <div className="flex gap-4">
                                 <a
-                                    href="#"
+                                    href="https://www.instagram.com/wargalabtif_"
                                     className="w-10 h-10 bg-white/20 hover:bg-white/30 backdrop-blur-md rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110"
                                 >
                                     <svg
